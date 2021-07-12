@@ -1,6 +1,8 @@
-# dsca_oau
+# dsco_oau
 
 A new Flutter application.
+
+UI for a simple recipe app.
 
 ## Getting Started
 
